@@ -7,7 +7,9 @@
 multiply_two_numbers(a, b)
 }
 \arguments{
-\item{b}{}
+\item{a}{first number}
+
+\item{b}{second number}
 }
 \value{
 

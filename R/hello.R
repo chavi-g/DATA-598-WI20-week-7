@@ -1,8 +1,8 @@
 
 #' Function to add two numbers
 #'
-#' @param a
-#' @param b
+#' @param a first number
+#' @param b second number
 #'
 #' @return
 #' @export
@@ -17,8 +17,8 @@ add_two_numbers <- function(a, b) {
 
 #' Function to multiply two numbers
 #'
-#' @param a
-#' @param b
+#' @param a first number
+#' @param b second number
 #'
 #' @return
 #' @export
