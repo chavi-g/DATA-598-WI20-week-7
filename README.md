@@ -2,7 +2,7 @@
 # mysimplecompendium
 
 <!-- badges: start -->
-  [![R build status](https://github.com/chavi-g/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/chavi-g/DATA-598-WI20-week-7/actions)
+![R build status](https://github.com/chavi-g/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/chavi-g/DATA-598-WI20-week-7/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompendium is to perform simle multiplication and addition of two integers
