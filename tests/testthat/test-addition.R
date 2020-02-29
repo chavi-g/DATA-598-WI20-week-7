@@ -7,5 +7,5 @@ test_that("addition works", {
 })
 
 test_that("addition works", {
-  expect_equal(add_two_numbers(2, 0), 2)
+  expect_equal(add_two_numbers(2, 0), 0)
 })
