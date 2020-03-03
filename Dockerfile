@@ -2,7 +2,7 @@
 FROM rocker/verse:3.6.2
 
 # required
-MAINTAINER Your Name <your_email@somewhere.com>
+MAINTAINER Chavi Gupta <chavig080@gmail.com>
 
 COPY . /DATA-598-WI20-week-7
 
