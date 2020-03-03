@@ -1,6 +1,6 @@
 Package: mysimplecompendium
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Simple multiplication and addition
 Version: 0.1.0
 Authors@R: person("Chavi", "Gupta", 
                   email = "chavig080@gmail.com", 
