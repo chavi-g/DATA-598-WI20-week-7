@@ -26,7 +26,7 @@ library(mysimplecompendium)
 add_two_numbers(1, 3)
 multiply_two_numbers(2, 3)
 ```
-## Code of Conduct
+## Contributing
 
 Please note that the 'mysimplecompendium' project is released with a
 [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
